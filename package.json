@@ -1,0 +1,20 @@
+{
+  "name": "api-movie-application",
+  "version": "1.0.0",
+  "description": "Prueba con API REST con The Movie DataBase",
+  "homepage": "https://github.com/herbecanto/api-movie-application#readme",
+  "bugs": {
+    "url": "https://github.com/herbecanto/api-movie-application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbecanto/api-movie-application.git"
+  },
+  "license": "MIT",
+  "author": "@Herbe Canto",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
